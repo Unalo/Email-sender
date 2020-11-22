@@ -1,0 +1,1 @@
+Simple Email sender app. It uses Mailsender, node and expressjs
